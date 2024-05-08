@@ -1,7 +1,7 @@
 # Smart Door Lock - Prototype
 <p align="center">
   <video controls autoplay loop muted width="100%" height="auto">
-    <source src="https://github.com/SankalpaHettiarachchi/Smart_door_lock/IOTcover.mp4" type="video/mp4">
+    <source src="https://github.com/SankalpaHettiarachchi/Smart_door_lock_new/IOTcover.mp4" type="video/mp4">
 </video>
 </p>
 
