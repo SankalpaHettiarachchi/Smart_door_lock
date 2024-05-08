@@ -1,7 +1,10 @@
 # Smart Door Lock - Prototype
 <p align="center">
- ![GIF Example](https://github.com/SankalpaHettiarachchi/Smart_door_lock/blob/main/IOTcover.gif)
+ <a href="https://github.com/SankalpaHettiarachchi/">
+    <img src="https://github.com/SankalpaHettiarachchi/Smart_door_lock/blob/main/IOTcover.gif" height="300px">
+  </a>
 </p>
+
 
 &nbsp;
 ## Technologies
