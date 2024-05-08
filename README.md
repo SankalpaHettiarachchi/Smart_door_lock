@@ -1,6 +1,6 @@
 # Smart Door Lock - Prototype
 <p align="center">
-  [![Watch the video](https://github.com/SankalpaHettiarachchi/Rost-Website/blob/main/cover.JPG)(https://github.com/SankalpaHettiarachchi/Smart_door_lock/blob/main/IOTcover.mp4)
+  [![Watch the video](https://github.com/SankalpaHettiarachchi/Smart_door_lock/blob/main/IOTcover.JPG)(https://github.com/SankalpaHettiarachchi/Smart_door_lock/blob/main/IOTcover.mp4)
 
 </p>
 
